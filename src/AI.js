@@ -1,7 +1,7 @@
 var AI = {
   Init: function()
   {
-    
+    alert('AI is working');
   }
 };
 
